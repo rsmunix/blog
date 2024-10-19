@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "O que é Monero?"
 date:   2024-10-19 16:00:05 -0400
 categories: criptomoedas
 ---
