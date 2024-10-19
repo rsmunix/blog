@@ -4,8 +4,6 @@ title: "O que é Monero?"
 date:   2024-10-19 16:00:05 -0400
 categories: criptomoedas
 ---
-# O que é Monero?
-
 Nos últimos anos, as criptomoedas ganharam grande visibilidade, com destaque para o Bitcoin. No entanto, em um mundo onde a privacidade online está cada vez mais ameaçada, surge o **Monero** como uma alternativa única e poderosa para transações verdadeiramente privadas e seguras.
 
 ## O que torna o Monero especial?
