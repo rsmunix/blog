@@ -47,4 +47,4 @@ Se você valoriza sua privacidade, segurança e liberdade, o Monero é a criptom
 
 **Referências**:
 
-- [O que é Monero?](https://getmonero.org/resources/about/) - Site oficial do Monero&#8203;:contentReference[oaicite:0]{index=0}.
+- [O que é Monero?](https://getmonero.org/resources/about/) - Monero - secure, private, untraceable
