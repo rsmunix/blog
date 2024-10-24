@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aqui eu escrevo sobre Computação, Linux e Criptomoedas
-email: ronymuniz{ARROBA}tutamail.com
+title: Aqui eu escrevo sobre Linux, criptomoedas e computação em geral
+email: ronymuniz${ARROBA}tutamail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Neste blog, compartilho dicas, tutoriais e insights sobre esses temas,
-  buscando descomplicar o universo digital. 
-  Acompanhe para aprender e explorar o futuro da tecnologia.
+  Um blog dedicado a Linux, criptomoedas e computação em geral, trazendo tutoriais, notícias e dicas para entusiastas de tecnologia.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://rsmunix.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rsmunix
