@@ -4,8 +4,6 @@ title: "Por que usar o Jekyll?"
 date:   2024-10-24 14:34:05 -0400
 categories: blog
 ---
-# Por que usar o Jekyll?
-
 Jekyll é uma das plataformas mais populares para a criação de sites estáticos, especialmente entre desenvolvedores e blogueiros que utilizam GitHub Pages. Desde sua criação, o Jekyll se tornou a escolha de muitos desenvolvedores devido à sua simplicidade, flexibilidade e integração robusta com plataformas de hospedagem como o GitHub. Neste artigo, exploraremos os principais motivos para adotar o Jekyll como sua ferramenta de criação de sites estáticos, destacando suas vantagens, recursos, e casos de uso práticos. Vamos também discutir como Jekyll se compara com outras ferramentas similares no mercado, como Hugo, Hexo e Gatsby.
 
 ## O que é Jekyll?
