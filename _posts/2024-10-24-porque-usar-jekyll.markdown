@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Por que usar o Jekyll??"
+title: "Por que usar o Jekyll?"
 date:   2024-10-24 14:34:05 -0400
 categories: blog
 ---
